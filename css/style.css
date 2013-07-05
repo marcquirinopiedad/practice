@@ -1,0 +1,31 @@
+
+body,p,input {
+
+margin:  0 !important;
+padding: 0 !important;
+
+}
+
+.search {
+
+padding: 0.3em !important;
+
+}
+
+.search_box {
+
+margin: 1px 0 0 5px !important;
+
+}
+
+.search_button{
+
+padding: 0.5em !important;
+margin: 0 !important;
+
+}
+
+.selection{
+
+margin: 1px 0 0 0;
+}
